@@ -1,0 +1,13 @@
+
+W
+java:S1128"5Remove this unused import 'javafx.scene.shape.Shape'.(Ô£ö™ûÿÿÿÿ8…óøÚñ.
+F
+java:S1068")Remove this unused "state" private field.(·˜é8Èêâßñ.
+N
+java:S1068",Remove this unused "cellSize" private field.(öªª“üÿÿÿÿ8Œ“Óáñ.
+R
+java:S1128"5Remove this unused import 'javafx.scene.paint.Paint'.(Ïæ©¼8ûáùÚñ.
+O
+java:S1068"-Remove this unused "cellColor" private field.(õĞéôûÿÿÿÿ8¯â³ßñ.
+F
+java:S1068")Remove this unused "world" private field.(øÎİ8×˜ÏÛñ.

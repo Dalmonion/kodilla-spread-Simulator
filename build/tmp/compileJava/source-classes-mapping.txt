@@ -1,8 +1,11 @@
 com/kodilla/spread/State.java
  com.kodilla.spread.State
-com/kodilla/spread/Controller.java
- com.kodilla.spread.Controller
-com/kodilla/spread/Cell.java
- com.kodilla.spread.Cell
 com/kodilla/spread/SpreadApplication.java
  com.kodilla.spread.SpreadApplication
+com/kodilla/spread/Cell.java
+ com.kodilla.spread.Cell
+ com.kodilla.spread.Cell$1
+com/kodilla/spread/Simulation.java
+ com.kodilla.spread.Simulation
+com/kodilla/spread/Controller.java
+ com.kodilla.spread.Controller

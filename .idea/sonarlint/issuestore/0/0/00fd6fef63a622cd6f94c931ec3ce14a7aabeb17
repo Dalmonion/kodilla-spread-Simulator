@@ -1,0 +1,6 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(ÍüÀ8Æ¼àñ.
+P
+java:S1068".Remove this unused "singleCell" private field.(¢ğõûÿÿÿÿ8Æ¼àñ.
+{
+java:S1450"YRemove the "simulation" field and declare it as a local variable in the relevant methods.(ÕÚÖÃüÿÿÿÿ8ß¼àñ.
